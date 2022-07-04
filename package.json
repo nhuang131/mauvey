@@ -1,0 +1,21 @@
+{
+    "name": "mauvey",
+    "displayName": "mauvey",
+    "description": "mauvey af",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "mauvey",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mauvey-color-theme.json"
+            }
+        ]
+    }
+}
