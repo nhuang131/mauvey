@@ -3,6 +3,11 @@
     "displayName": "mauvey",
     "description": "mauvey af",
     "version": "0.0.1",
+    "publisher": "nhuang131",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/nhuang131/mauvey"
+    },
     "engines": {
         "vscode": "^1.68.0"
     },
