@@ -3,7 +3,8 @@
 </h1>
 <p align="center">
   A very mauvey dark theme for VSCode. ✍(◔◡◔)
-  ![demo](https://raw.githubusercontent.com/nhuang131/mauvey/main/pics/screenshot.png)
+  
+  ![screenshot](./pics/screenshot.png)
 </p>
 
 
