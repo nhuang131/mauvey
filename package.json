@@ -4,15 +4,36 @@
     "description": "mauvey af",
     "version": "0.0.2",
     "publisher": "nhuang131",
+    "icon": "pics/mauvey.png",
+    "author": {
+        "name": "Nancy Huang",
+        "email": "nhuang131@gmail.com"
+    },
     "repository": {
       "type": "git",
       "url": "https://github.com/nhuang131/mauvey"
+    },
+    "bugs": {
+      "url": "https://github.com/nhuang131/mauvey/issues",
+      "email": "nhuang131@gmail.com"
+    },
+    "homepage": "https://github.com/nhuang131/mauvey/blob/main/README.md",
+    "galleryBanner": {
+      "color": "#dd95b960",
+      "theme": "dark"
     },
     "engines": {
         "vscode": "^1.68.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+      "Themes",
+      "Dark Theme",
+      "color-theme",
+      "mauve",
+      "pastel"
     ],
     "contributes": {
         "themes": [
